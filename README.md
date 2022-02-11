@@ -1,4 +1,4 @@
-# Heficience-projet-pour-tous
+# Heficience
 La présentation du projet à tous !
 ![logofinal2large](https://user-images.githubusercontent.com/22844238/143687622-b0b46fc1-3ded-4ae1-acef-9207d053eedd.png)
 
