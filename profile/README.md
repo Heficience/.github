@@ -36,32 +36,32 @@ Les projets à moyen ou long terme au sein d'Heficience sont une custom rom Andr
 
 ## L'équipe actuelle :
 
-### Paullux
+### [Paullux](https://github.com/Paullux)
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/22844238?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d
 )  
 ![Paullux](https://github-readme-stats.vercel.app/api/?username=Paullux&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
 ![Paullux](https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)   
 
-### AndroneDev
+### [AndroneDev](https://github.com/andronedev)
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/31452517?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d
 )  
 ![Andronedev](https://github-readme-stats.vercel.app/api/?username=andronedev&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
 ![Andronedev](https://github-readme-stats.vercel.app/api/top-langs?username=andronedev&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
 
-### tradenco
+### [tradenco](https://github.com/tradenco)
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/8341985?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d
 )  
 ![tradenco](https://github-readme-stats.vercel.app/api/?username=tradenco&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
 ![tradenco](https://github-readme-stats.vercel.app/api/top-langs?username=tradenco&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
 
 
-### Wizend
+### [Wizend](https://github.com/Wizend)
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/36104406?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d
 )  
 ![Wizend](https://github-readme-stats.vercel.app/api/?username=Wizend&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
 ![Wizend](https://github-readme-stats.vercel.app/api/top-langs?username=Wizend&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
 
-### 3xpl0it-Sh4d0w
+### [3xpl0it-Sh4d0w](https://github.com/3xpl0it-Sh4d0w)
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/85597175?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d
 )  
 ![3xpl0it-Sh4d0w](https://github-readme-stats.vercel.app/api/?username=3xpl0it-Sh4d0w&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
