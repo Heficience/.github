@@ -13,7 +13,7 @@ Les projets qui ont déjà été développé (mais perfectible) pour venir en ai
 
 ## Top langages GitHub
 
-![ovi](https://github-readme-stats.vercel.app/api/top-langs?username=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark")
+![ovi](https://github-readme-stats.vercel.app/api/top-langs?organization=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark")
 
 ## Les projets en cours 
 
