@@ -36,7 +36,7 @@ Les projets à moyen ou long terme au sein d'Heficience sont une custom rom Andr
 
 ## Langages de programmation utilisés dans le projet
 
-![Paullux](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)
+![Paullux](https://github-readme-stats-one-bice.vercel.app/api/top-langs?organization=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)
 
 ## L'équipe actuelle :
 
