@@ -13,16 +13,20 @@ Les projets qui ont déjà été développé (mais perfectible) pour venir en ai
 
 ## Top langages GitHub
 
-![Paullux](https://github-readme-stats.vercel.app/api/?username=Paullux&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)  
-![Paullux](https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark) 
-![Andronedev](https://github-readme-stats.vercel.app/api/?username=andronedev&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)   
-![Andronedev](https://github-readme-stats.vercel.app/api/top-langs?username=andronedev&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)   
-![tradenco](https://github-readme-stats.vercel.app/api/?username=tradenco&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)   
-![tradenco](https://github-readme-stats.vercel.app/api/top-langs?username=tradenco&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)  
-![Wizend](https://github-readme-stats.vercel.app/api/?username=Wizend&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)  
-![Wizend](https://github-readme-stats.vercel.app/api/top-langs?username=Wizend&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)  
-![3xpl0it-Sh4d0w](https://github-readme-stats.vercel.app/api/?username=3xpl0it-Sh4d0w&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)  
-![3xpl0it-Sh4d0w](https://github-readme-stats.vercel.app/api/top-langs?username=3xpl0it-Sh4d0w&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)  
+![Paullux](https://github-readme-stats.vercel.app/api/?username=Paullux&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
+![Paullux](https://github-readme-stats.vercel.app/api/top-langs?username=Paullux&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)   
+
+![Andronedev](https://github-readme-stats.vercel.app/api/?username=andronedev&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
+![Andronedev](https://github-readme-stats.vercel.app/api/top-langs?username=andronedev&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
+
+![tradenco](https://github-readme-stats.vercel.app/api/?username=tradenco&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
+![tradenco](https://github-readme-stats.vercel.app/api/top-langs?username=tradenco&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
+
+![Wizend](https://github-readme-stats.vercel.app/api/?username=Wizend&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
+![Wizend](https://github-readme-stats.vercel.app/api/top-langs?username=Wizend&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)     
+
+![3xpl0it-Sh4d0w](https://github-readme-stats.vercel.app/api/?username=3xpl0it-Sh4d0w&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
+![3xpl0it-Sh4d0w](https://github-readme-stats.vercel.app/api/top-langs?username=3xpl0it-Sh4d0w&orgs=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark)    
 
 ## Les projets en cours 
 
