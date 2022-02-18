@@ -34,6 +34,10 @@ Vu le nombre de programmes **à finaliser**, nous cherchons donc des **bénévol
 
 Les projets à moyen ou long terme au sein d'Heficience sont une custom rom Android, une iso Linux, la vente de matériels à prix coûtant, enfin presque pour rentrer dans nos frais, avec les OS dessus.
 
+## Langage de programmation utilisé dans le projet
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?heficience" frameborder="0"></iframe>
+
 ## L'équipe actuelle :
 
 ### [Paullux](https://github.com/Paullux)
