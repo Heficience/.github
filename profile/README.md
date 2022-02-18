@@ -11,6 +11,10 @@ Les projets qui ont déjà été développé (mais perfectible) pour venir en ai
  - 1 menu cross-platform Linux/Windows/macOS qui propose uniquement les fonctions de base d'un pc.
  - 1 Launcher android pour les déficients visuels.
 
+## Top langages GitHub
+
+![ovi](https://github-readme-stats.vercel.app/api/top-langs?username=Heficience&show_icons=true&locale=fr&layout=compact&theme=chartreuse-dark")
+
 ## Les projets en cours 
 
 Projets | HSuperMenu | heficience-site-web | ProCeciFoot | autocompletion
