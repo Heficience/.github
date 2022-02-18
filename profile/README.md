@@ -36,7 +36,7 @@ Les projets à moyen ou long terme au sein d'Heficience sont une custom rom Andr
 
 ## Langages de programmation utilisés dans le projet
 
-![LanguagesProject](https://ionicabizau.github.io/github-profile-languages/api.html?heficience)
+&lt;iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?heficience" frameborder="0">&lt;/iframe>
 
 ## L'équipe actuelle :
 
