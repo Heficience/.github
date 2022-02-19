@@ -36,7 +36,7 @@ Les projets à moyen ou long terme au sein d'Heficience sont une custom rom Andr
 
 ## Les langages de programmations utilisé au sein du projet  
 
-![top language](../language.png)
+![top language](https://github.com/Heficience/.github/raw/main/language.png)
 
 ## L'équipe actuelle :
 
