@@ -4,6 +4,7 @@ const puppeteer = require('puppeteer');
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto('https://ionicabizau.github.io/github-profile-languages/api.html?heficience');
+  await sleep(5000);
   await page.screenshot({ path: 'language-graph.png' });
 
   await browser.close();
