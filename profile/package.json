@@ -1,0 +1,26 @@
+{
+    "name": "language",
+    "version": "1.0.0",
+    "description": "Moi",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Heficience/.github.git"
+    },
+    "keywords": [
+      "Moi"
+    ],
+    "author": "Paullux",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Heficience/.github/issues"
+    },
+    "homepage": "https://www.heficience.com",
+    "dependencies": {
+      "node-fetch": "^2.6.1",
+      "puppeteer": "^5.1.0"
+    }
+  }
