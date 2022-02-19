@@ -31,5 +31,5 @@ jobs:
       - name: Commit and Push new LANGUAGE Image to the repository
         uses: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GENERATE_LANGUAGE_GRAPH }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: 'main'
