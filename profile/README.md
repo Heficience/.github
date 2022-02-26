@@ -29,7 +29,7 @@ Projects | Launcher-Android | Linux-appimage-incorporated | Doosearch-Heficience
 Liens de Téléchargement | https://bit.ly/3jhxM3H | https://bit.ly/3oJhenm | https://bit.ly/3GLCYW2
 
 
-Vu le nombre de programmes **à finaliser**, nous cherchons donc des **bénévoles**. Interessé ? rendez vous sur notre discord https://discord.gg/2dxKDJ2RNK.
+Vu le nombre de programmes **à finaliser**, nous cherchons donc des **bénévoles**. Interessé ? rendez vous sur notre discord <a href="https://discord.gg/2dxKDJ2RNK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>.
 
 
 Les projets à moyen ou long terme au sein d'Heficience sont une custom rom Android, une iso Linux, la vente de matériels à prix coûtant, enfin presque pour rentrer dans nos frais, avec les OS dessus.
