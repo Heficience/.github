@@ -26,7 +26,7 @@ Liens de Téléchargement | https://bit.ly/3sB6zMS | https://bit.ly/3JqnDfa | ht
 Projects | Launcher-Android | Linux-appimage-incorporated | StartPage 
 --- |--- |--- |---
 État | fonctionnel | fonctionnel | fonctionnel
-Liens de Téléchargement | https://bit.ly/3jhxM3H | https://bit.ly/3oJhenm | https://bit.ly/3GLCYW2
+Liens de Téléchargement | https://bit.ly/3jhxM3H | https://bit.ly/3oJhenm | https://bit.ly/3xgUTmu
 
 
 Vu le nombre de programmes **à finaliser**, nous cherchons donc des **bénévoles**. Interessé ? rendez vous sur notre discord   
