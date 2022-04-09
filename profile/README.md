@@ -23,7 +23,7 @@ Projets | Heficience-menu | Heficience-Bot | Heficience-Project
 État | fonctionnel | fonctionnel | bêta
 Liens de Téléchargement | https://bit.ly/3sB6zMS | https://bit.ly/3JqnDfa | https://bit.ly/3oK0JYg
 
-Projects | Launcher-Android | Linux-appimage-incorporated | Doosearch-Heficience 
+Projects | Launcher-Android | Linux-appimage-incorporated | StartPage 
 --- |--- |--- |---
 État | fonctionnel | fonctionnel | fonctionnel
 Liens de Téléchargement | https://bit.ly/3jhxM3H | https://bit.ly/3oJhenm | https://bit.ly/3GLCYW2
